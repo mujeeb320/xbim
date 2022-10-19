@@ -1,0 +1,23 @@
+{
+  "name": "xbim_technical_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujeeb320/xbim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mujeeb320/xbim/issues"
+  },
+  "homepage": "https://github.com/mujeeb320/xbim#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
